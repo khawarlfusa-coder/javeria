@@ -1,12 +1,10 @@
 {
   "name": "javeria-saleem-portfolio",
   "version": "1.0.0",
+  "private": true,
   "description": "Official artist portfolio website for Hafiza Javeria Saleem",
-  "main": "index.html",
   "scripts": {
+    "build": "echo 'Build successful'",
     "start": "node server.js"
-  },
-  "keywords": ["naat", "javeria-saleem", "portfolio", "islamic-artist"],
-  "author": "khawarlfusa-coder",
-  "license": "MIT"
+  }
 }
